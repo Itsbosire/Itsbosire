@@ -1,5 +1,6 @@
-# Hello there! Thanks for stopping by.
-
+# Hello there! 👋, thanks for stopping by.
+# Welcome to my GitHub Profile!
+```bash
 ┌─[Itsbosire@github]─[~]
 └──╼ whoami
 🧪 Biotechnologist  
@@ -7,7 +8,7 @@
 🔬 Molecular Biologist
 ┌─[Itsbosire@github]─[~]
 └──╼ $
-
+```
 # Let's connect!
 [X](https://x.com/Syre254)
 
